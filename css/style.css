@@ -1,0 +1,52 @@
+html{
+  scroll-behavior:smooth;
+}
+.navbar {
+  background: #202223;
+  ;
+  opacity: 0.7;
+}
+
+.navbar {
+  border-bottom: 3px solid #0265D0;
+}
+
+.fa-check {
+  font-size: x-large;
+  font-weight: 800;
+  background: #fff;
+  color: #000;
+  padding: 4px;
+  margin-top: 11px;
+  border-radius: 5px;
+}
+
+.backgro {
+  border-radius: 7px;
+}
+
+#homeSection {
+  background-image: linear-gradient(to top, #000000ab, #35352dbd), url(../img/background-dark.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+  padding-top: 125px;
+}
+
+#exploreHeadSection {}
+
+.icon-so {
+  font-size: x-large;
+  font-weight: 700;
+  color: aquamarine;
+  background: black;
+}
+
+p a:hover {
+  color: #ffff;
+}
+
+p a {
+  color: darksalmon;
+}
